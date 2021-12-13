@@ -1,0 +1,7 @@
+{
+    "emailTo": "",
+    "smtp": "smtp.gmail.com",
+    "port": 587,
+    "username": "",
+    "password": ""
+}

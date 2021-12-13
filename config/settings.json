@@ -1,0 +1,23 @@
+{
+    "Global": {
+        "retry": 30
+    },
+    "Amazon":{
+        "maxCart": 1
+    },
+    "BestBuy":{
+        "maxCart": 1
+    },
+    "BH": {
+        "maxCart": 1
+    },
+    "Newegg": {
+        "maxCart": 1
+    },
+    "Target": {
+        "maxCart": 1
+    },
+    "Walmart": {
+        "maxCart": 1
+    }
+}
